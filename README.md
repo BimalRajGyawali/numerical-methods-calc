@@ -43,7 +43,7 @@
 3. [Relaxation ](https://atozmath.com/CONM/GaussEli.aspx?q=RM2&q1=2%6020x%2by-2z%3d17%3b3x%2b20y-z%3d-18%3b2x-3y%2b20z%3d25%60RM2%600%2c0%2c0%601.25&dm=D&dp=4&do=1#PrevPart)
 4. [Largest Eigen Value Using Power Method](https://atozmath.com/MatrixEv.aspx?q=powermethod)
 
-###5 : Ordinary Differential Equations
+### 5 : Ordinary Differential Equations
 
 **First Order Differential Solutions**
 
