@@ -20,7 +20,7 @@
 5. Curve Fitting - Regression
 ***
 
-###3: Numerical Differentiation and Integration 
+### 3: Numerical Differentiation and Integration 
 
 1. [Newton's Forward/Backward Differentiation ](https://atozmath.com/CONM/NumeDiff.aspx?q=A) 
 2. [Newton Divided Difference ](https://atozmath.com/CONM/NumeDiff.aspx?q=DD)
@@ -28,7 +28,7 @@
 4. Integration : Trapezoid, Simpson(1/3, 3/8), Gaussian Quadranture, Romberg
 ***
 
-###4 : Linear Algebraic Equations
+### 4 : Linear Algebraic Equations
 **Direct Methods**
 1. [Gauss Elimination ](https://matrixcalc.org/en/slu.html)
 2. [Gauss Jordan ](https://matrixcalc.org/en/slu.html)
