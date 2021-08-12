@@ -1,11 +1,31 @@
 ### Numerical Methods
 
+***
+
+### 1: Non-Linear Equations
+1. [Bisection ](https://atozmath.com/CONM/Bisection.aspx?q=bi)
+2. [False Position ](https://atozmath.com/CONM/Bisection.aspx?q=fp)
+3. [Secant ](https://atozmath.com/CONM/Bisection.aspx?q=se)
+4. [Fixed Point Iteration ](https://atozmath.com/CONM/Bisection.aspx?q=it)
+5. [Newton Rapson ](https://atozmath.com/CONM/Bisection.aspx?q=nr)
+
+***
+
 ### 2 : Interpolation and Approximation
 
 1. [Lagrange's Interpolation](https://atozmath.com/CONM/NumeInterPola.aspx?q=LI&m=1) : Unequal
 2. [Newton's Divided Difference](https://atozmath.com/CONM/NumeInterPola.aspx?q=DD&m=1) : Unequal
 3. [Newton Forward/Backward Difference](https://atozmath.com/CONM/NumeInterPola.aspx?q=A&m=1) : Equal
+4. [Cublic spline](https://atozmath.com/CONM/CubicSpline.aspx)
+5. Curve Fitting - Regression
+***
 
+###3: Numerical Differentiation and Integration 
+
+1. [Newton's Forward/Backward Differentiation ](https://atozmath.com/CONM/NumeDiff.aspx?q=A) 
+2. [Newton Divided Difference ](https://atozmath.com/CONM/NumeDiff.aspx?q=DD)
+3. [Lagrange Method ](https://atozmath.com/CONM/NumeDiff.aspx?q=LI)
+4. Integration : Trapezoid, Simpson(1/3, 3/8), Gaussian Quadranture, Romberg
 ***
 
 ###4 : Linear Algebraic Equations
@@ -43,3 +63,7 @@
 **Boundary Value Problem**
 
 1.[Shooting Method]()*
+
+### 6. Partial Differentiation 
+1. Laplace Method
+2. Poisson Method
