@@ -58,13 +58,13 @@
 
 **Second Order Differential Solutions**
 
-1.[R-K-2 / Huen's Method]()*     
-2.[R-K-4]()*                                                                                
-3.[Euler Method]()*
+1. [R-K-2 / Huen's Method]()*     
+2. [R-K-4]()*                                                                                
+3. [Euler Method]()*
 
 **Boundary Value Problem**
 
-1.[Shooting Method]()*
+1. [Shooting Method]()*
 
 ***
 
