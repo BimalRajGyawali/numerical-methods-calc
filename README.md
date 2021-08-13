@@ -6,7 +6,7 @@
 1. [Bisection ](https://atozmath.com/CONM/Bisection.aspx?q=bi)
 2. [False Position / Regular Falsi](https://atozmath.com/CONM/Bisection.aspx?q=fp)
 3. [Secant ](https://atozmath.com/CONM/Bisection.aspx?q=se)
-4. [Fixed Point Iteration ](https://atozmath.com/CONM/Bisection.aspx?q=it)
+4. [Fixed Point Iteration ]*
 5. [Newton Rapson ](https://atozmath.com/CONM/Bisection.aspx?q=nr)
 
 ***
