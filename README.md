@@ -18,12 +18,12 @@
 3. [Newton Forward/Backward Difference](https://atozmath.com/CONM/NumeInterPola.aspx?q=A&m=1) : Equal
 4. [Cublic spline](https://atozmath.com/CONM/CubicSpline.aspx)
 5. Curve Fitting / Regression   
-    a. [Straight line : y = ax + b ](https://atozmath.com/CONM/LeastSquare.aspx?q=1)      
+    a. [Straight line : y = ax + b ](https://atozmath.com/CONM/LeastSquare.aspx?q=1)        
     b. [Second degree parabola : y = a + bx + cx2 ](https://atozmath.com/CONM/LeastSquare.aspx?q=2)    
-    c. [Cubic Equation : y = a + bx + cx2 + dx3 ](https://atozmath.com/CONM/LeastSquare.aspx?q=3)
-    d. [Exponential : y= ae^bx](https://atozmath.com/CONM/LeastSquare.aspx?q=4)
-    e. [Exponential : y= ab^x](https://atozmath.com/CONM/LeastSquare.aspx?q=5)
-    f. [Exponential : y= ax^b](https://atozmath.com/CONM/LeastSquare.aspx?q=6)
+    c. [Cubic Equation : y = a + bx + cx2 + dx3 ](https://atozmath.com/CONM/LeastSquare.aspx?q=3)      
+    d. [Exponential : y= ae^bx](https://atozmath.com/CONM/LeastSquare.aspx?q=4)    
+    e. [Exponential : y= ab^x](https://atozmath.com/CONM/LeastSquare.aspx?q=5)    
+    f. [Exponential : y= ax^b](https://atozmath.com/CONM/LeastSquare.aspx?q=6)     
 ***
 
 ### 3: Numerical Differentiation and Integration 
