@@ -17,7 +17,10 @@
 2. [Newton's Divided Difference](https://atozmath.com/CONM/NumeInterPola.aspx?q=DD&m=1) : Unequal
 3. [Newton Forward/Backward Difference](https://atozmath.com/CONM/NumeInterPola.aspx?q=A&m=1) : Equal
 4. [Cublic spline](https://atozmath.com/CONM/CubicSpline.aspx)
-5. Curve Fitting - Regression
+5. Curve Fitting / Regression   
+    a. [Straight line : y = ax + b ](https://atozmath.com/CONM/LeastSquare.aspx?q=1)   
+    b. [Second degree parabola : y = a + bx + cx2 ](https://atozmath.com/CONM/LeastSquare.aspx?q=2)
+    c. [Cubic Equation : y = a + bx + cx2 + dx3 ](https://atozmath.com/CONM/LeastSquare.aspx?q=3)
 ***
 
 ### 3: Numerical Differentiation and Integration 
