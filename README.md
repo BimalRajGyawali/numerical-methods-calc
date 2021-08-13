@@ -82,3 +82,7 @@
 ### 6. Partial Differentiation 
 1. Laplace Method
 2. Poisson Method
+
+### Tools
+1. [4 Unknown Calculator](http://www.1728.org/unknwn4.htm)
+2. [3 Unknown Calculator](https://ncalculators.com/algebra/3-variable-equation-solver.htm)
