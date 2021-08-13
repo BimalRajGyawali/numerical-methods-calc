@@ -4,7 +4,7 @@
 
 ### 1: Non-Linear Equations
 1. [Bisection ](https://atozmath.com/CONM/Bisection.aspx?q=bi)
-2. [False Position ](https://atozmath.com/CONM/Bisection.aspx?q=fp)
+2. [False Position / Regular Falsi](https://atozmath.com/CONM/Bisection.aspx?q=fp)
 3. [Secant ](https://atozmath.com/CONM/Bisection.aspx?q=se)
 4. [Fixed Point Iteration ](https://atozmath.com/CONM/Bisection.aspx?q=it)
 5. [Newton Rapson ](https://atozmath.com/CONM/Bisection.aspx?q=nr)
@@ -25,7 +25,10 @@
 1. [Newton's Forward/Backward Differentiation ](https://atozmath.com/CONM/NumeDiff.aspx?q=A) 
 2. [Newton Divided Difference ](https://atozmath.com/CONM/NumeDiff.aspx?q=DD)
 3. [Lagrange Method ](https://atozmath.com/CONM/NumeDiff.aspx?q=LI)
-4. Integration : Trapezoid, Simpson(1/3, 3/8), Gaussian Quadranture, Romberg
+4. [Integration : Trapezoid ](https://atozmath.com/CONM/NumeInte.aspx?q=T&q1=2%601%2f(1%2bx%5e2)%600%606%60%606%60T&dp=4&do=1#PrevPart) 
+5. [Integration : Simpson 1/3 ](https://atozmath.com/CONM/NumeInte.aspx?q=S13&m=2)      
+6. [Integration : Simpson 3/8](https://atozmath.com/CONM/NumeInte.aspx?q=S38&m=2)
+7. Gaussian Quadranture, Romberg
 ***
 
 ### 4 : Linear Algebraic Equations
